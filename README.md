@@ -2,7 +2,7 @@
 
 ## 📖 Descrição
 
-Este projeto é parte da avaliação da disciplina **AV3POO**, desenvolvido com o objetivo de aplicar os conceitos de **Programação Orientada a Objetos (POO)** usando o **framework Spring Boot**. A aplicação integra com os bancos de dados **PostgreSQL** (para produção) e **MySQL** (para testes), além de incluir validações e testes automatizados, garantindo a qualidade e robustez do código.
+Este projeto é parte da avaliação da disciplina **AV3POO**, desenvolvido com o objetivo de aplicar os conceitos de **Programação Orientada a Objetos (POO)** usando o **framework Spring Boot**. A aplicação integra com os bancos de dados **PostgreSQL** (para produção), além de incluir validações e testes automatizados, garantindo a qualidade e robustez do código.
 
 ## ⚙️ Tecnologias e Dependências
 
@@ -13,7 +13,6 @@ Este projeto é parte da avaliação da disciplina **AV3POO**, desenvolvido com 
 - **Spring Boot Starter Web**: Para construção de APIs RESTful.
 - **Spring Boot DevTools**: Ferramentas para otimizar o desenvolvimento e facilitar o ciclo de vida da aplicação.
 - **PostgreSQL**: Banco de dados utilizado em produção.
-- **MySQL**: Banco de dados para testes.
 - **H2 Database**: Banco de dados em memória, ideal para testes rápidos e locais.
 - **Lombok**: Biblioteca para reduzir a verbosidade do código, facilitando a utilização de anotações.
 - **Spring Boot Starter Test**: Framework para automação de testes, garantindo a qualidade do sistema.
@@ -33,7 +32,6 @@ git clone https://github.com/seu-usuario/av3poo.git
 Configure o banco de dados:
 
 Para produção, configure o PostgreSQL.
-Para testes, configure o MySQL.
 Execute o projeto:
 
 Abra o terminal e execute o comando:

@@ -23,7 +23,7 @@ Este projeto é parte da avaliação da disciplina **AV3POO**, desenvolvido com 
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/av3poo.git
+git clone https://github.com/sDevliviax/av3poo.git
 
 ```
 
